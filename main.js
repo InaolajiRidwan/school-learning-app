@@ -46,7 +46,7 @@ var alphabet = [
   "O for Orange",
   "P for Pen",
   "Q for Queen",
-  "R for Run",
+  "R for Rain",
   "S for Sun",
   "T for Table",
   "U for Umbrella",
